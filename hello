@@ -1,2 +1,1 @@
-printf("hell");
-printf("enter your name")
+printf("hello")
